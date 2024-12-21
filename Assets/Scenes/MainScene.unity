@@ -686,9 +686,9 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.50818944, y: 0.005741055}
-  m_Size: {x: 3.1608152, y: 3.160815}
-  m_Direction: 0
+  m_Offset: {x: 0.50818944, y: -0.24799283}
+  m_Size: {x: 3.1608162, y: 2.38008}
+  m_Direction: 1
 --- !u!50 &197697458
 Rigidbody2D:
   serializedVersion: 4
@@ -714,7 +714,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!114 &197697459
 MonoBehaviour:
@@ -871,6 +871,7 @@ GameObject:
   - component: {fileID: 217523015}
   - component: {fileID: 217523014}
   - component: {fileID: 217523016}
+  - component: {fileID: 217523017}
   m_Layer: 7
   m_Name: quick_attack
   m_TagString: Skill
@@ -977,9 +978,36 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.84709275, y: -0.0000014513624}
-  m_Size: {x: 5.4257774, y: 2.7758753}
+  m_Offset: {x: -0.37034416, y: 0.064224966}
+  m_Size: {x: 6.3792505, y: 3.8143203}
   m_Direction: 1
+--- !u!50 &217523017
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 217523013}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &354186611
 GameObject:
   m_ObjectHideFlags: 0
@@ -2646,6 +2674,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LoseScene: {fileID: 1365043553}
   PauseScene: {fileID: 151763887}
+  audioClip: {fileID: 8300000, guid: ad6c7a77f1791e74fab04ce766e11086, type: 3}
   gameSpeed: 1
 --- !u!114 &1158437754
 MonoBehaviour:
@@ -2953,13 +2982,14 @@ GameObject:
   - component: {fileID: 1374142026}
   - component: {fileID: 1374142027}
   - component: {fileID: 1374142028}
+  - component: {fileID: 1374142029}
   m_Layer: 7
   m_Name: Lightning
   m_TagString: Skill
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1374142024
 Transform:
   m_ObjectHideFlags: 0
@@ -2969,8 +2999,8 @@ Transform:
   m_GameObject: {fileID: 1374142023}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.7959983, w: 0.605299}
-  m_LocalPosition: {x: 2.27, y: -0.35999998, z: 0}
-  m_LocalScale: {x: 1.167228, y: 2.5685744, z: 1.0297356}
+  m_LocalPosition: {x: 2.94, y: -1.02, z: 0}
+  m_LocalScale: {x: 1.1321101, y: 2.2324562, z: 0.9998732}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 197697454}
@@ -3059,7 +3089,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.17769301, y: 0.12369302}
+  m_Offset: {x: 0.17769289, y: 0.11491199}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -3070,7 +3100,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 4.658643, y: 0.81909853}
+  m_Size: {x: 4.658643, y: 0.836661}
   m_EdgeRadius: 0
 --- !u!50 &1374142028
 Rigidbody2D:
@@ -3080,7 +3110,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1374142023}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -3097,8 +3127,22 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 4
+  m_CollisionDetection: 1
+  m_Constraints: 7
+--- !u!114 &1374142029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1374142023}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a64af219b04416440becf60df49ac074, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: 1374142026}
+  boxCollider2D: {fileID: 1374142027}
 --- !u!1 &1511228044
 GameObject:
   m_ObjectHideFlags: 0
@@ -3626,8 +3670,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.163, y: 0.6224525}
   m_AnchorMax: {x: 0.841, y: 0.92200005}
-  m_AnchoredPosition: {x: -0.5, y: -0.30000305}
-  m_SizeDelta: {x: 4, y: -0.98410034}
+  m_AnchoredPosition: {x: -0.5, y: -7.1962}
+  m_SizeDelta: {x: 4, y: 12.8083}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1721833501
 MonoBehaviour:
@@ -3676,7 +3720,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 23.15
+  m_fontSize: 35.5
   m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 1

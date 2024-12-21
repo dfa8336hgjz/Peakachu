@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.IO.Pipes;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public enum Side { Left, Right };
@@ -29,13 +30,13 @@ public class PlayerInput : MonoBehaviour
         {
             AnimatorClipInfo[] clipInfos = _animator.GetCurrentAnimatorClipInfo(0);
             string clipname = clipInfos[0].clip.name;
-            lightning.SetActive(clipname.Contains("Pikachu_JumpFrom"));
+
 #if UNITY_STANDALONE || UNITY_EDITOR
             if (Input.GetMouseButtonDown(0))
             {
                 x1 = Input.mousePosition.x;
             }
-            if (Input.GetMouseButtonUp(0))
+            else if (Input.GetMouseButtonUp(0))
             {
                 x2 = Input.mousePosition.y;
                 if (Mathf.Abs(x1-x2) > 10.0f)
@@ -43,16 +44,19 @@ public class PlayerInput : MonoBehaviour
                     if (x1 > x2 && clipname.Contains("Pikachu_RunningRight"))
                     {
                         _animator.SetTrigger("Jump");
-                        lightning.SetActive(true);
                         side = Side.Left;
                     }
                     else if (x1 < x2 && clipname.Contains("Pikachu_RunningLeft"))
                     {
                         _animator.SetTrigger("Jump");
-                        lightning.SetActive(true);
                         side = Side.Right;
                     }
                 }
+            }
+            else if (Input.GetKeyDown(KeyCode.Space))
+            {
+                _animator.SetTrigger("Jump");
+                side = (side == Side.Left) ? Side.Right : Side.Left;
             }
 #elif UNITY_ANDROID || UNITY_IOS
             if (Input.touchCount > 0)
@@ -70,13 +74,11 @@ public class PlayerInput : MonoBehaviour
                         if (x1 > x2 && clipname.Contains("Pikachu_RunningRight"))
                         {
                             _animator.SetTrigger("Jump");
-                            lightning.SetActive(true);
                             side = Side.Left;
                         }
                         else if (x1 < x2 && clipname.Contains("Pikachu_RunningLeft"))
                         {
                             _animator.SetTrigger("Jump");
-                            lightning.SetActive(true);
                             side = Side.Right;
                         }
                     }
@@ -104,5 +106,18 @@ public class PlayerInput : MonoBehaviour
     {
         quickAttack.SetActive(active);
         lightning.SetActive(!active);
+    }
+
+    public bool checkJumping()
+    {
+        AnimatorClipInfo[] clipInfos = _animator.GetCurrentAnimatorClipInfo(0);
+        string clipname = clipInfos[0].clip.name;
+        return clipname.Contains("Pikachu_Jump");
+    }
+
+    public string getAnimationName()
+    {
+        AnimatorClipInfo[] clipInfos = _animator.GetCurrentAnimatorClipInfo(0);
+        return clipInfos[0].clip.name;
     }
 }

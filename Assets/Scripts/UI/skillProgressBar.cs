@@ -14,6 +14,6 @@ public class skillProgressBar : MonoBehaviour
 
     public void updateProgress(int point)
     {
-        progressBarFill.fillAmount = point / 20f;
+        progressBarFill.fillAmount = point / 25f;
     }
 }
