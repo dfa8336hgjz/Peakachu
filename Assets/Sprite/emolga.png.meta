@@ -1,0 +1,4285 @@
+fileFormatVersion: 2
+guid: 6f7a480aa42988e4f805118a2fa474c9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: emolga_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2812
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10590dc005f77a44b1d57c1acd5e714
+      internalID: 2013450210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2812
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f19e32ff3003446be2a413586777fb
+      internalID: 619116188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2812
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96b39eca85dfbf45ad437e75ceb05e9
+      internalID: -459022816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2812
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa495120fb7201941b88da5f702d3666
+      internalID: 834626174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2812
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfaeaaf171efba4a9b899c41a50954d
+      internalID: 1040198025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2736
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0e0b8fd89fc044199607c88addc12f
+      internalID: 1042857682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2736
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277f26564b145664496ad548cabeb617
+      internalID: -1459993114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2736
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea7f35e56b219f40a7c47a5adc5d527
+      internalID: -250099894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2736
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cb2cc9323904a49ae1f9c3ddf9e479
+      internalID: -152523619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2736
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a016d878a7f86d40952ee45906b16ea
+      internalID: -701503108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2660
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9107342d661182c4c97eeb5187d18b5c
+      internalID: -48684953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2660
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fbfa76b70509245bf4343883c1b84c
+      internalID: -129211594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2660
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd25d06cb0201428e75b51390601e5
+      internalID: 81481467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2660
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cd1b565d18b424fab10a85359ec89e
+      internalID: 2028608177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2660
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8ba3b80bc589479cbe5cfedd26bba
+      internalID: -1713043951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2584
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931bdc6e00add9447a2cbe3617253b1f
+      internalID: -21999553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2584
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d378f74c0da63b74e94272345809771f
+      internalID: 1505539498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2584
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572499077a271fc4ba4e071e44fc07bd
+      internalID: 1832303157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2584
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c748a02a21ee4d82283c7eff529e3
+      internalID: -442054747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2584
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c8b65ef037ffc438f241ba4ab45841
+      internalID: -492884316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2508
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cccb06cbb5ec8b4ea56e177db3efef2
+      internalID: 1942774033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2508
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125d48d3aa617d147b345633db9d338f
+      internalID: -309896127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2508
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec5437a084bf5744842a23269cb6cd1
+      internalID: 1347829317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2508
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cf51e8b348f434995b49cba5d6c18b
+      internalID: -1039367208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_24
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2508
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8972ede649d88974ab8352dc417632c0
+      internalID: 1481456090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2432
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b53d6c026aadc4580bd9d8aebc22c9
+      internalID: 2123413671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2432
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902dfcacc5b97a249a0a05c2b9cca82e
+      internalID: 943542551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_27
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2432
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ba848241bcc084a930b4ec0838ade0
+      internalID: -871795000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2432
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00d58e4ad2c6e94ba857f82aa6b3e03
+      internalID: -894037786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2432
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a5046a62f3d354db997a3b61dc133c
+      internalID: 1630534245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2356
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0004e7ec9d1577d4f9f95de6cc820ffd
+      internalID: -324953442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2356
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1506fa18c71981640ac5b7ed0f9ca40d
+      internalID: 106611353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2356
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8220bf501907e9428e7e04aef5aff8b
+      internalID: -452811400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2356
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bbc1518b7f61346a64e929a227cd2e
+      internalID: -1575341503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2356
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4eaf63e9412214189b38ad61633299
+      internalID: 1125172853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9616dbb4050460c4f803a24cc5e49a15
+      internalID: -215490006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2280
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b375fe70be97e4ba2d7d4a2aa75b6c
+      internalID: 595699393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2280
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0e06c98e28e22469ce87297edf364a
+      internalID: 2045334166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_38
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2280
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd79c4476209de842b41c3d43c84a691
+      internalID: -345629148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_39
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2280
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cad1410be21a84ba1f35d327a9bb14
+      internalID: -944337714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2204
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aed3793fea09146bb75c71506768fe
+      internalID: 561332243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2204
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62357456f57f32e4ca920801fb17efc1
+      internalID: 202508450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_42
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2204
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa3eea29a9dbdd469ac736eef3a76eb
+      internalID: 784264705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_43
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2204
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219c827d3ad0c8141949e21a56a160e2
+      internalID: -790512079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_44
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2204
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c7a5390a7db0c4f99d88c505188e3f
+      internalID: -949774865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2128
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d31a4c7ea9662f40bbaa411601b9d56
+      internalID: -2013601264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2128
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbbaab2ccd78ec46a45a4319f9248a0
+      internalID: 1757380009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2128
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c235fc4420a8c45a4c93e7034427ee
+      internalID: -1185575549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_48
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2128
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e57509be1b0554dbcb89cf7750b0f1
+      internalID: 733569826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_49
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2128
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a0b9160377ab04fa683c2594cb5b49
+      internalID: 730863808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2052
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eccb1e8a3d1ac41a213f3202fed34b
+      internalID: 1251879683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2052
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce99314a85e4ef4cb918bec8ce08187
+      internalID: -1243473402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_52
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2052
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b737e2ee87f8e547a0e1e0171f98352
+      internalID: 44835162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_53
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2052
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439819bc96e7e564a97f4349d6fcef66
+      internalID: 2138787386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_54
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2052
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf6353f64bf56c44b32c981aaa5b25b
+      internalID: 1928863031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1976
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8238c4557ec195b4b95be9b8f073c1a1
+      internalID: -1299666985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1976
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8966095da6b74b1408133c7f6e9a6165
+      internalID: 29515460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_57
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1976
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2d19a084477744f8fd27ef45824e65
+      internalID: 38389291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_58
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1976
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d483da8a87872f4a80a55b889077f4b
+      internalID: 1835549166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_59
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1976
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107a672f2d45d145a444aa34d981ea0
+      internalID: -634258747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1900
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6a1ced86721504caf660ef826c1679
+      internalID: 27675558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1900
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a0e1b2884ef4649ae10079bb713726
+      internalID: -1865682143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1900
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d7bb83bb11e4c4d9143aad156b730d
+      internalID: 1390840692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_63
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1900
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee174ca4ae3db14495b9250fcac3ea0
+      internalID: 230722505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_64
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1900
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f86688e73d62d4f985b93f38b7af40
+      internalID: 1404940509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c95b4f301cf114ebd9c84fbdd7e33f
+      internalID: -1283767157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1824
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c6fa846af55ca46b09749ab21c912a
+      internalID: 1480565251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1824
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b803ae4a329c14d84d37de56a52d3a
+      internalID: -1784479289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_68
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1824
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b233b7ee148bf41a6551299bc5156d
+      internalID: -673408149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_69
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1824
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85680cb469ecab47850c29ec5a01360
+      internalID: 1448612047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28435823e6d2afc49bf73da660e5a120
+      internalID: -885028417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_71
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1748
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7067d9b7d443440a33b68d9775c0aa
+      internalID: 1557234365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_72
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1748
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836121cf02cac9c48adc0b5fe322275b
+      internalID: -744826546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1748
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f8170ba68f90a47aafc8c2042fe560
+      internalID: 1920135418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_74
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1748
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08804de9835bcad4a8a8a53678f635f1
+      internalID: 2107485229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ef9bffb3bdd1e42a4ee8d8bfb5b8dc
+      internalID: 1889479244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1672
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3d77dd72dcfe94d8d7397792522d14
+      internalID: 413061060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_77
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1672
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103dd4999e4f83d4aa24ce4ee0155f8a
+      internalID: 1068795560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_78
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1672
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfee3ada84621e14b80933697c3faaa9
+      internalID: 815449204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_79
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1672
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bacdf008f63e4458de0a95aa0f982e
+      internalID: -100889782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dd12bcd8a40564a8a0fe23d408a692
+      internalID: -909077616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_81
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1596
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8cc99776beff6418199f21763581e1
+      internalID: -1924930189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1596
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5cc557e1e55284daf368a6f48b0c18
+      internalID: 911532341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_83
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1596
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb04064420c2744d8a3b0485cb30b03
+      internalID: -1880736889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_84
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1596
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11798b5c0961a734b938130a93893bcd
+      internalID: 900899827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d4dffd7073ae24f90c8b528e5b3638
+      internalID: -935031137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_86
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1520
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dfd1f26d4c6bd4f9a5ea2d7ab39a33
+      internalID: 1292900552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_87
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1520
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6697f8ada5eaad545a03205f46eadbd6
+      internalID: -159928663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_88
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1520
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6439a83e6264b3428867aeb23ea3485
+      internalID: 716267249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_89
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1520
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b44622a79907914c8e635ef91972e01
+      internalID: -1459209646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1444
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1af1c6a9e164d45b6ac477514487bb
+      internalID: -591279170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_91
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1444
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc355c47aec3694990707ccb5a38c13
+      internalID: -1331113025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_92
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1444
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4f80ec865d6ef4c9341cfb7063384a
+      internalID: 437419349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_93
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1444
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c17fbca79ef3b4458f0d62a4ae64890
+      internalID: -22868326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_94
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1444
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc99fcd7e595644ca9b6c71f8010d2d
+      internalID: -349354409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480036bb8dfc335438aad4bc586b51f7
+      internalID: 73574902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_96
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1368
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ad0166f97e4804d88b896f643b6f12
+      internalID: 1666334173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_97
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1368
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5736358b3ae1df459901f1467611160
+      internalID: -1251425099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_98
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1368
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab54ed333776e147a7930fa98a899ed
+      internalID: 120657339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_99
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1368
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda99dc783cfc574189d256e5ec659b6
+      internalID: 1560366067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1292
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37677b61e4a894c41ab7d3b45915e86e
+      internalID: 252736385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_101
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1292
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a024ea587d9babb47a130727a32af464
+      internalID: 1743639236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_102
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1292
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2cfa29785cb214ab2d1b8451daa627
+      internalID: -996525404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_103
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1292
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcffaf9536a4854fa59234310a51685
+      internalID: 505188588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_104
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1292
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb560f0558bcade4d883b1528edc63f8
+      internalID: -840116566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332829c8e43f44249abace45ac7ffaf9
+      internalID: 1252221558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_106
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1216
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6cf915109bf59419b12d760d5ea038
+      internalID: -1561527163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_107
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1216
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f779947a2d5e6641a77e75b095294f9
+      internalID: -1697643338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_108
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1216
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be57eafd1c29238459bccac0ea01f345
+      internalID: 520721993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_109
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1216
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1687616d6705f4846a6d6e1a289708d3
+      internalID: 831011111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590de0ab570d27944b22df7c2b38b9f4
+      internalID: 1755357074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_111
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1140
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dc2809c7a6d1942b54f72e3d9cd098
+      internalID: 110603961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_112
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1140
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32784b247e903594c965eba154db8a45
+      internalID: 1985047753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_113
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1140
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc602ba72121ad2429be0a9bf16ded29
+      internalID: -2047808501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_114
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1140
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088736bcc243ae7428cdc5bd5707d5e3
+      internalID: 201695315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1064
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa467b29a564997448eea46bfa454a3f
+      internalID: 1357468482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_116
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1064
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5529eeba45faa774c8971136a508f476
+      internalID: 536959667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_117
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1064
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7b7b2275bd1a459f35050e4c57749
+      internalID: -29749084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_118
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1064
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8627432e492334c9c908ea4547ded8
+      internalID: -43964292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_119
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1064
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8a8d5fb160b7248a6ab00ed952b197
+      internalID: -223909861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 988
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d8bc889a5fb2245a6fd850277836d9
+      internalID: 400073063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 988
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb917057e3015044b5b347d4d382e2c
+      internalID: 1147996018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_122
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 988
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada0b0f4159f5de418b6e98d2314065d
+      internalID: -859046884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_123
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 988
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c5a500dc8130e48b8de209305a53b9
+      internalID: -308659396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_124
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 988
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5f66f8e9e19794687d876fdcbf7527
+      internalID: -1386367176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6c92037e04c1640b0a657fc0232135
+      internalID: 144182251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_126
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 912
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aece702015cced34ab68dc3be06ba2c8
+      internalID: -2060192569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_127
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 912
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a08d52320596e4f896a4c01dca5d55
+      internalID: 1316435291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_128
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 912
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fe89991bf14ba42843336a3bcb7e9c
+      internalID: 187512031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_129
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 912
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc3bbf12e6e43449a308e2a9a220747
+      internalID: 964808219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70565bfed865bb945b96989d12452468
+      internalID: 1973576526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_131
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 836
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3837349dde2d56d47b2bd7bb5f9f0655
+      internalID: -972627196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_132
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 836
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865d4f0dee877a243a98a1b645e2ba89
+      internalID: -870444611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_133
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 836
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b72eb5d7b6ceb64a9e3235f6af1117c
+      internalID: 1682182998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_134
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 836
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c28f974a7e1f3e4a86928288cb2eab3
+      internalID: -306176406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c5d50576405154fa2ab657a8e5c1fa
+      internalID: -1586416717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_136
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 760
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b803267461280f04dac80f86125baee6
+      internalID: -1204005655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_137
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 760
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea858fb93083944ba372a23e869f192
+      internalID: -293733133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_138
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 760
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477aa6a8d2e8622428dfdb8c4398f66c
+      internalID: 234552959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_139
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 760
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f542003266723a4f89ae9e4cdca5013
+      internalID: 1076589893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45135e6a882f59469ba7e453f8d328c
+      internalID: -1677928658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_141
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 684
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be52431f255d25b42826ab555f49c6b6
+      internalID: 2077563178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_142
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 684
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f088e89eda10a014ab19eb69e9759680
+      internalID: 477777698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_143
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 684
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10293c83f5e8a741ae2a3f624a1e939
+      internalID: 645976891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_144
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 684
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a798dbc14ebb1c4ba4f5a1093ef3862
+      internalID: -14613864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cf9326cb5bd424297956c8e928df81
+      internalID: -1646239362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_146
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 608
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab80ae7792f8264e82d1d58132bf796
+      internalID: -1087438678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_147
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 608
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95607401593241e4084422180635f056
+      internalID: 509577200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_148
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 608
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed8b41e4359d944da5a6891df4784d7
+      internalID: -956855307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_149
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 608
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21009ccdf0851c54694fc67e23dd6b80
+      internalID: 1038228729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280d77c6ad5c88e4ca29c72d2b9b2671
+      internalID: 2034671438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_151
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 532
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba2d95082232b48985aed7a4a5a03f
+      internalID: 579772116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_152
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 532
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc1d5e7b1b4c746b1e0bcacdb1406c
+      internalID: 1110427944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_153
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 532
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df881102351b7d84c8cef6fe055b3aed
+      internalID: -1930645274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_154
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 532
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a419a89810a2146983ce6784f3f366
+      internalID: -1411982494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a078934e5a3c04799aa73f65a79c91
+      internalID: -1611859251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_156
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 456
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f347957ebc093164fafe3464fc051c2d
+      internalID: 922353412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_157
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 456
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d044bb1fae065e34f9925c30a8c276cc
+      internalID: -713523438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_158
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 456
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40a1dfc48c267b44ac70bd53a7cef6d
+      internalID: 1655043381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_159
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 456
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7523ff6d7732f5c468cd39d474dd2906
+      internalID: 1901638949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a542d376f27dd24894197db6e6d388d
+      internalID: 1183982150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_161
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 380
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e46a01a0b67274184bffa80c5b6e46
+      internalID: -615917569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_162
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 380
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf394ee9690568a41ae08968b54ef188
+      internalID: 312935756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_163
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 380
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537b8cd39d843c7458c6e586726176c1
+      internalID: -1219515058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_164
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 380
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c896580d73da794ea7bd3e1a0c95f52
+      internalID: -2097427819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6412b1486d33648ac97c6d4ed9d0ba
+      internalID: 1352915789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_166
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 304
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f33d41d1854048b03b5790bcab914
+      internalID: 1968435463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_167
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 304
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb4684af0cc25e488900f96248e925a
+      internalID: 1403785335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_168
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 304
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3f0a5c36ae2148873cade4cd5ff60
+      internalID: -935230527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_169
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 304
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b4accf33d8073419d5bfd6f039cd61
+      internalID: 827947057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcbd8f22883fa54192e5e595788a035
+      internalID: 541666858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_171
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 228
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc556faacb9b5f46a157cb4dc90dacd
+      internalID: -673806549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_172
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 228
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092c732d713f458479e35a6964554a77
+      internalID: 909957722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_173
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 228
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c091d0c7472b6f0478746c585a3f7e71
+      internalID: 1251741222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_174
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 228
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906afc651a3fc7d4cb6ac72a8658737b
+      internalID: 1868519920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800b0f370cf4c8543b674d841d837bbb
+      internalID: 258661550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_176
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 152
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e266a0dfc5af364d8417e8d5f2bb17a
+      internalID: 1733732884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_177
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 152
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefcb087806e99e4cbf878bbf6931861
+      internalID: 474758557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_178
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 152
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202b9c7def524bf45a7cae310e9f01ae
+      internalID: 726194205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_179
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 152
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5677037e331c554caf06dd24193b5e6
+      internalID: -380640523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e9103d335b1604ca55f0e8149b548a
+      internalID: 1257884722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_181
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 76
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f030100d666a2874b8878d0f62de7b33
+      internalID: 1261744836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_182
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 76
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68ca25e9a68a0a4b9e4502f18908b16
+      internalID: -76249659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_183
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 76
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3182f64d407fc3a43b96d6887164050e
+      internalID: -881994621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_184
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 76
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44344aec11055a4da2ea886bbfb3ddb
+      internalID: 105148338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9e37afa267bf142b020ddc5f63db6c
+      internalID: -1400608083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_186
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eecdc4e58ccbb4c8061a5323d0cb68
+      internalID: 1431452882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_187
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c3eebfb0c852b4abd47cf4ff4294cd
+      internalID: -1534220567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emolga_188
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2650853b61aa949a6bd6b51a5350a2
+      internalID: 1513712525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      emolga_0: 2013450210
+      emolga_1: 619116188
+      emolga_10: -48684953
+      emolga_100: 252736385
+      emolga_101: 1743639236
+      emolga_102: -996525404
+      emolga_103: 505188588
+      emolga_104: -840116566
+      emolga_105: 1252221558
+      emolga_106: -1561527163
+      emolga_107: -1697643338
+      emolga_108: 520721993
+      emolga_109: 831011111
+      emolga_11: -129211594
+      emolga_110: 1755357074
+      emolga_111: 110603961
+      emolga_112: 1985047753
+      emolga_113: -2047808501
+      emolga_114: 201695315
+      emolga_115: 1357468482
+      emolga_116: 536959667
+      emolga_117: -29749084
+      emolga_118: -43964292
+      emolga_119: -223909861
+      emolga_12: 81481467
+      emolga_120: 400073063
+      emolga_121: 1147996018
+      emolga_122: -859046884
+      emolga_123: -308659396
+      emolga_124: -1386367176
+      emolga_125: 144182251
+      emolga_126: -2060192569
+      emolga_127: 1316435291
+      emolga_128: 187512031
+      emolga_129: 964808219
+      emolga_13: 2028608177
+      emolga_130: 1973576526
+      emolga_131: -972627196
+      emolga_132: -870444611
+      emolga_133: 1682182998
+      emolga_134: -306176406
+      emolga_135: -1586416717
+      emolga_136: -1204005655
+      emolga_137: -293733133
+      emolga_138: 234552959
+      emolga_139: 1076589893
+      emolga_14: -1713043951
+      emolga_140: -1677928658
+      emolga_141: 2077563178
+      emolga_142: 477777698
+      emolga_143: 645976891
+      emolga_144: -14613864
+      emolga_145: -1646239362
+      emolga_146: -1087438678
+      emolga_147: 509577200
+      emolga_148: -956855307
+      emolga_149: 1038228729
+      emolga_15: -21999553
+      emolga_150: 2034671438
+      emolga_151: 579772116
+      emolga_152: 1110427944
+      emolga_153: -1930645274
+      emolga_154: -1411982494
+      emolga_155: -1611859251
+      emolga_156: 922353412
+      emolga_157: -713523438
+      emolga_158: 1655043381
+      emolga_159: 1901638949
+      emolga_16: 1505539498
+      emolga_160: 1183982150
+      emolga_161: -615917569
+      emolga_162: 312935756
+      emolga_163: -1219515058
+      emolga_164: -2097427819
+      emolga_165: 1352915789
+      emolga_166: 1968435463
+      emolga_167: 1403785335
+      emolga_168: -935230527
+      emolga_169: 827947057
+      emolga_17: 1832303157
+      emolga_170: 541666858
+      emolga_171: -673806549
+      emolga_172: 909957722
+      emolga_173: 1251741222
+      emolga_174: 1868519920
+      emolga_175: 258661550
+      emolga_176: 1733732884
+      emolga_177: 474758557
+      emolga_178: 726194205
+      emolga_179: -380640523
+      emolga_18: -442054747
+      emolga_180: 1257884722
+      emolga_181: 1261744836
+      emolga_182: -76249659
+      emolga_183: -881994621
+      emolga_184: 105148338
+      emolga_185: -1400608083
+      emolga_186: 1431452882
+      emolga_187: -1534220567
+      emolga_188: 1513712525
+      emolga_19: -492884316
+      emolga_2: -459022816
+      emolga_20: 1942774033
+      emolga_21: -309896127
+      emolga_22: 1347829317
+      emolga_23: -1039367208
+      emolga_24: 1481456090
+      emolga_25: 2123413671
+      emolga_26: 943542551
+      emolga_27: -871795000
+      emolga_28: -894037786
+      emolga_29: 1630534245
+      emolga_3: 834626174
+      emolga_30: -324953442
+      emolga_31: 106611353
+      emolga_32: -452811400
+      emolga_33: -1575341503
+      emolga_34: 1125172853
+      emolga_35: -215490006
+      emolga_36: 595699393
+      emolga_37: 2045334166
+      emolga_38: -345629148
+      emolga_39: -944337714
+      emolga_4: 1040198025
+      emolga_40: 561332243
+      emolga_41: 202508450
+      emolga_42: 784264705
+      emolga_43: -790512079
+      emolga_44: -949774865
+      emolga_45: -2013601264
+      emolga_46: 1757380009
+      emolga_47: -1185575549
+      emolga_48: 733569826
+      emolga_49: 730863808
+      emolga_5: 1042857682
+      emolga_50: 1251879683
+      emolga_51: -1243473402
+      emolga_52: 44835162
+      emolga_53: 2138787386
+      emolga_54: 1928863031
+      emolga_55: -1299666985
+      emolga_56: 29515460
+      emolga_57: 38389291
+      emolga_58: 1835549166
+      emolga_59: -634258747
+      emolga_6: -1459993114
+      emolga_60: 27675558
+      emolga_61: -1865682143
+      emolga_62: 1390840692
+      emolga_63: 230722505
+      emolga_64: 1404940509
+      emolga_65: -1283767157
+      emolga_66: 1480565251
+      emolga_67: -1784479289
+      emolga_68: -673408149
+      emolga_69: 1448612047
+      emolga_7: -250099894
+      emolga_70: -885028417
+      emolga_71: 1557234365
+      emolga_72: -744826546
+      emolga_73: 1920135418
+      emolga_74: 2107485229
+      emolga_75: 1889479244
+      emolga_76: 413061060
+      emolga_77: 1068795560
+      emolga_78: 815449204
+      emolga_79: -100889782
+      emolga_8: -152523619
+      emolga_80: -909077616
+      emolga_81: -1924930189
+      emolga_82: 911532341
+      emolga_83: -1880736889
+      emolga_84: 900899827
+      emolga_85: -935031137
+      emolga_86: 1292900552
+      emolga_87: -159928663
+      emolga_88: 716267249
+      emolga_89: -1459209646
+      emolga_9: -701503108
+      emolga_90: -591279170
+      emolga_91: -1331113025
+      emolga_92: 437419349
+      emolga_93: -22868326
+      emolga_94: -349354409
+      emolga_95: 73574902
+      emolga_96: 1666334173
+      emolga_97: -1251425099
+      emolga_98: 120657339
+      emolga_99: 1560366067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
